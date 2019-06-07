@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InternetCalc/static/css/main.ab083fc5.chunk.css",
+    "main.js": "/InternetCalc/static/js/main.75718526.chunk.js",
+    "main.js.map": "/InternetCalc/static/js/main.75718526.chunk.js.map",
+    "runtime~main.js": "/InternetCalc/static/js/runtime~main.a75b8adc.js",
+    "runtime~main.js.map": "/InternetCalc/static/js/runtime~main.a75b8adc.js.map",
+    "static/js/2.27d8b0f8.chunk.js": "/InternetCalc/static/js/2.27d8b0f8.chunk.js",
+    "static/js/2.27d8b0f8.chunk.js.map": "/InternetCalc/static/js/2.27d8b0f8.chunk.js.map",
+    "index.html": "/InternetCalc/index.html",
+    "precache-manifest.8b98ff95c32fdb08633195a096204184.js": "/InternetCalc/precache-manifest.8b98ff95c32fdb08633195a096204184.js",
+    "service-worker.js": "/InternetCalc/service-worker.js",
+    "static/css/main.ab083fc5.chunk.css.map": "/InternetCalc/static/css/main.ab083fc5.chunk.css.map"
+  }
+}
